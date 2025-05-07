@@ -184,7 +184,7 @@ h1 {
 
 .delete-btn {
   position: absolute;
-  top: 5rem;
+  top: 6rem;
   right: 1.5rem;
   background-color: var(--danger-color);
   color: white;
